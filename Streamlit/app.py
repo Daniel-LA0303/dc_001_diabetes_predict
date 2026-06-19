@@ -61,9 +61,9 @@ with col1:
     heart_disease_dict = {'No':0, 'Yes':1}
 
 with col2:
-    smoking_history = st.selectbox(label='Smoking History', 
+    smoking_history = st.selectbox(label='Smoking History',
                                    options=['Never', 'Current', 'Former', 'Ever', 'Not Current', 'No Info'])
-    smoking_history_dict = {'Never':4.0, 'No Info':0.0, 'Current':1.0, 
+    smoking_history_dict = {'Never':4.0, 'No Info':0.0, 'Current':1.0,
                             'Former':3.0, 'Ever':2.0, 'Not Current':5.0}
 
     bmi = st.text_input(label='BMI')
