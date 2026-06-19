@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction Project
+# Diabetes Prediction Project
 
 A machine learning project that predicts the likelihood of diabetes from patient health indicators, including exploratory data analysis, a trained classification model, and a Streamlit web app for interactive predictions.
 
